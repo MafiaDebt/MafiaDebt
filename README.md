@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/f8c4b40b70d3c26622993a253954524b/a167811f7a399c68-ea/s540x810/267e94a0b3f67cf50b7e85af642ee5dd7c45975e.pnj" />
+  <img src="https://64.media.tumblr.com/3594706d0171dc70e856fa1c7addd4a6/e1363fcb45235c50-15/s640x960/aa1fd5f915e8b915416633d2dab51dbf8faf81c9.pnj" />
 </p>
 
 <p align="center">
 "Gotta get this right tonight!" 
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/554e09183bc92ea464052955e4934a1c/a167811f7a399c68-6b/s1280x1920/ad071fed66312618d48e569c509e81e4f59901c2.pnj" />
+  <img src="https://64.media.tumblr.com/eb094288adb4c27e4d1715bc2d6465e9/e1363fcb45235c50-55/s1280x1920/18bad4a24d719166f9dfd3e3ba6ff264d5ed002f.gif" width="500"  />
 </p>
 
 
 <p align="center">
-  <img src="https://api.font-generator.com/preview/Mason/46/790000/none/Cay+%2F+Killz+%2F+Epic/e11750ddcdd27fd52b0e749f849c482e.png" />
+  <img src="https://api.font-generator.com/preview/BleedingCowboys/46/aaaaaa/none/Mafioso/7d4b59c7432be153dbe789dbac9accb9.png" />
 </p>
 
 
 
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/5102d4243eff5156a84e75d35bea52d7/a167811f7a399c68-c5/s540x810/3820fa86cd2e0d198ca8585113c5b1c21da6aaf3.pnj" />
+  <img src="https://64.media.tumblr.com/bcd542ee19f48c5301bfbaa350c1ee5d/38cb13cb0960ea8a-42/s1280x1920/65879795ca437ad8ad4b5fbed55a92dfda2f6b7f.pnj" />
 </p>
 
 <p align="center">
