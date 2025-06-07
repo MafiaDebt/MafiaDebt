@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/3594706d0171dc70e856fa1c7addd4a6/e1363fcb45235c50-15/s640x960/aa1fd5f915e8b915416633d2dab51dbf8faf81c9.pnj" />
+  <img src="https://64.media.tumblr.com/195ab5f4e20d31b0f2cd5bfcae788dc6/794d1ba06cddd4cf-a9/s1280x1920/ebcd1873e6fb660be2066b9e4afe9e45f723f716.pnj" width="500" />
 </p>
 
+
 <p align="center">
-"Gotta get this right tonight!" 
+  <img src="https://64.media.tumblr.com/04880f68e8ac6a1ec68b16274fba7f78/16d24f9fbcc0eb61-18/s400x600/c973441ca2c91337739482fd2c753d50878e252a.pnj" width="300"  />
+</p>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/eb094288adb4c27e4d1715bc2d6465e9/e1363fcb45235c50-55/s1280x1920/18bad4a24d719166f9dfd3e3ba6ff264d5ed002f.gif" width="500"  />
@@ -14,15 +16,23 @@
   <img src="https://api.font-generator.com/preview/BleedingCowboys/46/aaaaaa/none/Mafioso/7d4b59c7432be153dbe789dbac9accb9.png" />
 </p>
 
-
-
-
 <p align="center">
-  <img src="https://64.media.tumblr.com/bcd542ee19f48c5301bfbaa350c1ee5d/38cb13cb0960ea8a-42/s1280x1920/65879795ca437ad8ad4b5fbed55a92dfda2f6b7f.pnj" />
+  <img src="https://api.font-generator.com/preview/cinzel-decorative/16/cccccc/none/He+%2F+Any+-+Mafioso+IRL+%21+%28real%29/8540b2653819eb77295d5acfe963d459.png"   />
 </p>
 
+
+
+
 <p align="center">
-" Gotta get you closer~"
+  <img src="https://64.media.tumblr.com/04880f68e8ac6a1ec68b16274fba7f78/16d24f9fbcc0eb61-18/s400x600/c973441ca2c91337739482fd2c753d50878e252a.pnj" width="300"  />
+</p>
+
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/ce47ebe6089839d5c4c9f7ffc4af6e16/794d1ba06cddd4cf-4f/s1280x1920/f7d2867d0d724d58043e2bda905b1b3e7ec62aa3.pnj" width="500" />
+</p>
+
+
 
 <p align="center">
   <a href="https://github.com/rottingvirus" target="_blank">main account!</a>
